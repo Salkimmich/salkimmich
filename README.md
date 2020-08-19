@@ -15,14 +15,6 @@ I am a Senior Data Scientist an Machine Learning Engineer with a decade of exper
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kimmich_Compute?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Kimmich_Compute)
 
-<br />
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sarakimmich&show_icons=true&hide_border=true" />
-<br />
- 
----
 
 ### 📕 Latest Blog Posts
 
@@ -32,6 +24,15 @@ I am a Senior Data Scientist an Machine Learning Engineer with a decade of exper
 
 ---
 
+
+<br />
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sarakimmich&show_icons=true&hide_border=true" />
+<br />
+
+---
 [linkedin]: https://linkedin.com/in/sarakimmich
 [website]: https://sarakimmich.com
 [twitter]: https://twitter.com/Kimmich_Compute
