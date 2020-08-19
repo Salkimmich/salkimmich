@@ -11,6 +11,7 @@ I am a Senior Data Scientist an Machine Learning Engineer with a decade of exper
 - 😄 Pronouns: They/Them or She/Her
 
 
+[![linkedIn](https://img.shields.io/website?label=sarakimmich.com&style=for-the-badge&url=https%3A%2F%2FLinkedIn)](https://linkedin.com/in/sarakimmich)
 [![Website](https://img.shields.io/website?label=sarakimmich.com&style=for-the-badge&url=https%3A%2F%2Fsarakimmich.com)](https://sarakimmich.com)
 
 
