@@ -1,5 +1,5 @@
 ## Hi there, I'm Sara Kimmich 
-# ✨:signal_strength:✨:earth_americas:✨:computer:✨:globe_with_meridians:✨
+# :signal_strength:✨:earth_americas:✨:computer:✨:globe_with_meridians:
 
 <br />
 
