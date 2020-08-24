@@ -5,7 +5,7 @@
 
 I am a Senior Data Scientist and Machine Learning Engineer with a decade of experience in automated analysis pipelines for reinforcement learning, predictive analytics, and algorithmic efficiency for cloud computing. I build data-driven design processes to reduce cognitive and algorithmic bias in machine learning design.  👋
 
-:bulb: ***I’m currently building an open source data science training program at the intersection of activism + computing, and I'm really excited about it*** <br />
+:bulb: ***I’m currently building an open source data science training program at the intersection of activism + computing, and I'm really excited about it*** :bulb: <br /><br />
 :busts_in_silhouette: I’m looking to collaborate with other coding content creators who care about making the world a better place <br />
 :thought_balloon: I’m looking for help with community building and engagement <br />
 :ferris_wheel: Pronouns: They/Them or She/Her <br />
