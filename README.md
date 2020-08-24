@@ -15,9 +15,20 @@ I am a Senior Data Scientist an Machine Learning Engineer with a decade of exper
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kimmich_Compute?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Kimmich_Compute)
 
+### 📕 I founded World First Tech Collective
+We are a community of coders sharing curated resources on responsible cloud computing, driven by a small team of cloud and technology professionals sharing resources and best practices to reduce the carbon footprint of cloud computing. As founder, my pirmary contributions are in advising scaling architecture and a global perspective on the full energy lifecycle of distributed computing systems. 
+
+➡️ [World First Tech](https://www.notion.so/worldfirsttech/Our-Mission-cd15795c34c548a8ab76185fecfabdb7)
+
+### 📕 Looking for a mentor in tech? 
+
+Looking to expand your career in data science? I love working with people who are passionate about building a better world, one git commit at a time. I run 4 month cohorts of talent stepping into the data science workforce. # If you have a ***real passion for working at the intersection of activism + computing*** # I'd love to have you join our final FLIK cohort of the year October 1st 2020! 
+
+➡️ [Apply for Mentorship through FLIK - Female Laboratory of Innovative Knowledge](https://portal.weareflik.com/)
+
+
 
 ### 📕 Latest Blog Posts
-
 
 ➡️ [Medium blog posts](https://medium.com/@sarakimmich)
 ➡️ [Aeon Essays](https://aeon.co/users/sara-kimmich)
