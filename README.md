@@ -1,12 +1,13 @@
-## Hi there, I'm ✨ Sara Kimmich ✨ ]]
+## Hi there, I'm Sara Kimmich 
+# ✨:signal_strength:✨:earth_americas:✨:computer:✨:globe_with_meridians:✨
 
 <br />
 
-I am a Senior Data Scientist :signal_strength: and Machine Learning Engineer:robot: with a decade of experience in automated analysis pipelines for reinforcement learning, predictive analytics, and algorithmic efficiency for cloud computing. I build data-driven design processes to reduce cognitive and algorithmic bias in machine learning design.  👋
+I am a Senior Data Scientist and Machine Learning Engineer with a decade of experience in automated analysis pipelines for reinforcement learning, predictive analytics, and algorithmic efficiency for cloud computing. I build data-driven design processes to reduce cognitive and algorithmic bias in machine learning design.  👋
 
 - :bulb: ***I’m currently building an open source data science training program at the intersection of activism + computing, and I'm really excited about it
-- :sunrise: I’m looking to collaborate with other coding content creators who care about making the world a better place
-- :sunrise_over_mountains: I’m looking for help with community building and engagement 
+- :busts_in_silhouette: I’m looking to collaborate with other coding content creators who care about making the world a better place
+- :thought_balloon: I’m looking for help with community building and engagement 
 - :ferris_wheel: Pronouns: They/Them or She/Her
 
 
