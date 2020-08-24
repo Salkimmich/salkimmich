@@ -1,36 +1,37 @@
-## Hi there, I'm ✨Sara Kimmich ✨ 
+## Hi there, I'm ✨ Sara Kimmich ✨ ]]
 
 <br />
 
-I am a Senior Data Scientist an Machine Learning Engineer with a decade of experience in automated analysis pipelines for reinforcement learning, predictive analytics, and algorithmic efficiency for cloud computing. I build data-driven design processes to reduce cognitive and algorithmic bias in machine learning design.  👋
+I am a Senior Data Scientist :signal_strength: and Machine Learning Engineer:robot: with a decade of experience in automated analysis pipelines for reinforcement learning, predictive analytics, and algorithmic efficiency for cloud computing. I build data-driven design processes to reduce cognitive and algorithmic bias in machine learning design.  👋
 
-- 🔭 I’m currently working on an Ethics of Data Driven Product Design
-- 👯 I’m looking to collaborate with other coding content creators who care about making the world a better place
-- 🤔 I’m looking for help with community building and engagement 
-- 🥅 2020 Goals: Develop an ethical training protocol for ML/AI design par excellence. 
-- 😄 Pronouns: They/Them or She/Her
+- :bulb: ***I’m currently building an open source data science training program at the intersection of activism + computing, and I'm really excited about it
+- :sunrise: I’m looking to collaborate with other coding content creators who care about making the world a better place
+- :sunrise_over_mountains: I’m looking for help with community building and engagement 
+- :ferris_wheel: Pronouns: They/Them or She/Her
+
 
 
 [![Website](https://img.shields.io/website?label=sarakimmich.com&style=for-the-badge&url=https%3A%2F%2Fsarakimmich.com)](https://sarakimmich.com)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kimmich_Compute?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Kimmich_Compute)
 
-### 📕 I founded World First Tech Collective
+### 🌍 I founded World First Tech Collective
 We are a community of coders sharing curated resources on responsible cloud computing, driven by a small team of cloud and technology professionals sharing resources and best practices to reduce the carbon footprint of cloud computing. As founder, my pirmary contributions are in advising scaling architecture and a global perspective on the full energy lifecycle of distributed computing systems. 
 
 ➡️ [World First Tech](https://www.notion.so/worldfirsttech/Our-Mission-cd15795c34c548a8ab76185fecfabdb7)
 
-### 📕 Looking for a mentor in tech? 
+### 	:octocat: Looking for a mentor in tech? 
 
-Looking to expand your career in data science? I love working with people who are passionate about building a better world, one git commit at a time. I run 4 month cohorts of talent stepping into the data science workforce. # If you have a ***real passion for working at the intersection of activism + computing*** # I'd love to have you join our final FLIK cohort of the year October 1st 2020! 
+Looking to expand your career in data science? I love working with people who are passionate about building a better world, one git commit at a time. I train a highly selective cohort of technical talent with a ***real passion for working at the intersection of activism + computing***. If that's you, I'd love to have you join our final FLIK cohort of the year October 1st 2020! 
 
 ➡️ [Apply for Mentorship through FLIK - Female Laboratory of Innovative Knowledge](https://portal.weareflik.com/)
-
 
 
 ### 📕 Latest Blog Posts
 
 ➡️ [Medium blog posts](https://medium.com/@sarakimmich)
+<br />
+
 ➡️ [Aeon Essays](https://aeon.co/users/sara-kimmich)
 
 ---
