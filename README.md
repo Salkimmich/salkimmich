@@ -10,10 +10,10 @@ I am a Senior Data Scientist and Machine Learning Engineer with a decade of expe
 :thought_balloon: I’m looking for help with community building and engagement <br />
 :ferris_wheel: Pronouns: They/Them or She/Her <br />
 
-### 🌍 I founded World First Tech Collective
+### 🌍 I founded Gadfly.ai
 We are a community of coders sharing curated resources on responsible cloud computing, driven by a small team of cloud and technology professionals sharing resources and best practices to reduce the carbon footprint of cloud computing. As founder, my pirmary contributions are in advising scaling architecture and a global perspective on the full energy lifecycle of distributed computing systems. 
 
-➡️ [World First Tech](https://www.notion.so/worldfirsttech/Our-Mission-cd15795c34c548a8ab76185fecfabdb7)
+➡️ [Gadfly.ai](Gadfly.ai)
 
 ### 	:octocat: Looking for a mentor in tech? 
 
