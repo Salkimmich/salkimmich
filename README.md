@@ -13,7 +13,7 @@ I am a Senior Data Scientist and Machine Learning Engineer with a decade of expe
 ### 🌍 I founded Gadfly.ai
 We are a community of coders sharing curated resources on responsible cloud computing, driven by a small team of cloud and technology professionals sharing resources and best practices to reduce the carbon footprint of cloud computing. As founder, my pirmary contributions are in advising scaling architecture and a global perspective on the full energy lifecycle of distributed computing systems. 
 
-➡️ [Gadfly.ai](Gadfly.ai)
+➡️ [Gadfly.ai](https://gadfly.ai/)
 
 ### 	:octocat: Looking for a mentor in tech? 
 
