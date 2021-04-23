@@ -1,11 +1,14 @@
-## Hi there, I'm Sara Kimmich 
+## Hi there, I'm Sal Kimmich 
 # :signal_strength:✨:earth_americas:✨:computer:✨:globe_with_meridians:
 
 <br />
 
-I am a Senior Data Scientist and Machine Learning Engineer with a decade of experience in automated analysis pipelines for reinforcement learning, predictive analytics, and algorithmic efficiency for cloud computing. I build data-driven design processes to reduce cognitive and algorithmic bias in machine learning design.  👋
+I am a Machine Learning Engineer with a decade of experience in reinforcement learning, predictive analytics, and algorithmic efficiency for cloud computing. 
 
-:bulb: ***I’m currently building an open source data science training program at the intersection of activism + computing, and I'm really excited about it*** :bulb: <br /><br />
+I care about the human-centered management of data-driven systems, helping people build data ecosystems that make sense, and solving hard problems through the clever use of math.
+
+👋
+
 :busts_in_silhouette: I’m looking to collaborate with other coding content creators who care about making the world a better place <br />
 :thought_balloon: I’m looking for help with community building and engagement <br />
 :ferris_wheel: Pronouns: They/Them or She/Her <br />
@@ -17,7 +20,7 @@ We are a community of coders sharing curated resources on responsible cloud comp
 
 ### 	:octocat: Looking for a mentor in tech? 
 
-Looking to expand your career in data science? I love working with people who are passionate about building a better world, one git commit at a time. I train a highly selective cohort of technical talent with a ***real passion for working at the intersection of activism + computing***. If that's you, I'd love to have you join our final FLIK cohort of the year October 1st 2020! 
+Looking to expand your career in data science? I love working with people who are passionate about building a better world, one git commit at a time. I train a highly selective cohort of technical talent with a ***real passion for working at the intersection of activism + computing***. 
 
 ➡️ [Apply for Mentorship through FLIK - Female Laboratory of Innovative Knowledge](https://portal.weareflik.com/)
 
@@ -28,7 +31,6 @@ Looking to expand your career in data science? I love working with people who ar
 [![Website](https://img.shields.io/website?label=sarakimmich.com&style=for-the-badge&url=https%3A%2F%2Fsarakimmich.com)](https://sarakimmich.com)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kimmich_Compute?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Kimmich_Compute)
-
 
 ➡️ [Medium blog posts](https://medium.com/@sarakimmich)
 <br />
