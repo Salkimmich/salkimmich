@@ -8,6 +8,7 @@ I am a Machine Learning Engineer with a decade of experience in reinforcement le
 I care about the human-centered management of data-driven systems, helping people build data ecosystems that make sense, and solving hard problems through the clever use of math.
 
 👋
+➡️ [Find me on HackerNoon!](https://hackernoon.com/u/salkimmich)
 
 :busts_in_silhouette: I’m looking to collaborate with other coding content creators who care about making the world a better place <br />
 :thought_balloon: I’m looking for help with community building and engagement <br />
