@@ -11,7 +11,7 @@ I care about the human-centered management of data-driven systems, helping peopl
 
 :busts_in_silhouette: I’m looking to collaborate with other coding content creators who care about making the world a better place <br />
 :thought_balloon: I’m looking for help with community building and engagement <br />
-:ferris_wheel: Pronouns: They/Them or She/Her <br />
+:ferris_wheel: Pronouns: They/Them <br />
 
 ### 🌍 I founded Gadfly.ai
 We are a community of coders sharing curated resources on responsible cloud computing, sharing resources and best practices to reduce the carbon footprint distributed cloud computing. As founder, my focus is in advising scaling architecture and a global perspective on the full energy lifecycle of distributed computing systems. 
