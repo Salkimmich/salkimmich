@@ -25,7 +25,6 @@ Looking to expand your career in data science? I love working with people who ar
 
 ➡️ [Apply for Mentorship through FLIK - Female Laboratory of Innovative Knowledge](https://portal.weareflik.com/)
 
-
 ### 📕 A collection of my online resources:
 
 
@@ -49,9 +48,15 @@ Looking to expand your career in data science? I love working with people who ar
 <br />
 
 ---
-[linkedin]: https://linkedin.com/in/sarakimmich
-[website]: https://sarakimmich.com
+[linkedin]: https://linkedin.com/in/salkimmich
+[website]: https://salkimmich.com
 [twitter]: https://twitter.com/Kimmich_Compute
-[youtube]: https://youtube.com/sarakimmich
-[instagram]: https://instagram.com/kimmichsara
-[webdevplaylist]: https://www.linkedin.com/in/sarakimmich/
+[instagram]: https://instagram.com/sal_sees_the_world
+[webdevplaylist]: https://www.linkedin.com/in/salkimmich/
+  
+###  Oh, before you leave, here's my favorite spoken word poem, I hope you are as inspired by The Pragmatist's Guide to Magic as I am! 
+   <iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=WA7LPK2iHq4" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
