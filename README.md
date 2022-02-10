@@ -14,10 +14,10 @@ I care about the human-centered management of data-driven systems, helping peopl
 :thought_balloon: I’m looking for help with community building and engagement <br />
 :ferris_wheel: Pronouns: They/Them <br />
 
-### 🌍 I founded Gadfly.ai
-We are a community of coders sharing curated resources on responsible cloud computing, sharing resources and best practices to reduce the carbon footprint distributed cloud computing. As founder, my focus is in advising scaling architecture and a global perspective on the full energy lifecycle of distributed computing systems. 
+### 🌍 I run The Present Dev Podcast
+The mission of The Present Dev is to highlight innovators working at the cutting edge of emerging technologies, the communities they support and to dig into the social implications of the next generation of the open web. We care about building a better digital future for everyone, and understanding how technology can be centered in the conversations about equality, equity and access on the internet. Commentator Sal Kimmich is a developer for open source and passionate about helping engineers and digital enthusiasts understand the complexities of a better digital future. Music by Ilkka Turunen!
 
-➡️ [Gadfly.ai](https://gadfly.ai/)
+➡️ [The Present Dev Podcast](https://anchor.fm/the-present-dev)
 
 ### 	:octocat: Looking for a mentor in tech? 
 
