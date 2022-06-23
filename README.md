@@ -39,16 +39,6 @@ Looking to expand your career in data science? I love working with people who ar
 
 ---
 
-
-
-###  Oh, before you leave, here's my favorite spoken word poem, I hope you are as inspired by The Pragmatist's Guide to Magic as I am! 
-   <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=WA7LPK2iHq4" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
@@ -62,4 +52,8 @@ allowfullscreen></iframe>
 [twitter]: https://twitter.com/Kimmich_Compute
 [instagram]: https://instagram.com/sal_sees_the_world
 [webdevplaylist]: https://www.linkedin.com/in/salkimmich/
-  
+
+###  Oh, before you leave, here's my favorite spoken word poem, I hope you are as inspired by The Pragmatist's Guide to Magic as I am! 
+[![The Pragmatist's Guide to Magic]          // Title
+(https://i.ytimg.com/vi/WA7LPK2iHq4/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=WA7LPK2iHq4)    // Video Link
