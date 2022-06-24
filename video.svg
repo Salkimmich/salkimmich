@@ -1,0 +1,12 @@
+<svg fill="none" viewBox="0 0 480 360" width="480" height="360" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<a href="https://www.youtube.com/watch?v=WA7LPK2iHq4">
+				<picture href="https://www.youtube.com/watch?v=WA7LPK2iHq4">
+					<source srcset="https://i.ytimg.com/vi_webp/WA7LPK2iHq4/hqdefault.webp" type="image/webp"></source>
+					<img src="https://i.ytimg.com/vi/WA7LPK2iHq4/hqdefault.jpg"  alt="photo"></img>
+				</picture>
+			</a>
+		</div>
+	</foreignObject>
+</svg>
