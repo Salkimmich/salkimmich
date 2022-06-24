@@ -62,7 +62,7 @@ Looking to expand your career in data science? I love working with people who ar
 
 <a href="https://www.youtube.com/watch?v=WA7LPK2iHq4">
 	<picture>
-		<source srcset="https://i.ytimg.com/vi_webp/WA7LPK2iHq4/hqdefault.webp" type="image/webp">
+		<source srcset="https://i.ytimg.com/vi_webp/WA7LPK2iHq4/hqdefault.webp" type="image/webp"></source>
 		<img src="https://i.ytimg.com/vi/WA7LPK2iHq4/hqdefault.jpg"  alt="photo"></img>
 	</picture>
 </a>
