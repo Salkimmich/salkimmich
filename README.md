@@ -43,7 +43,7 @@ Looking to expand your career in data science? I love working with people who ar
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sarakimmich&show_icons=true&hide_border=true" />
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=salkimmich&show_icons=true&hide_border=true" />
 <br />
 
 ---
