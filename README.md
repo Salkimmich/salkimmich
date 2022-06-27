@@ -39,12 +39,11 @@ Looking to expand your career in data science? I love working with people who ar
 
 ---
 
-
 <br />
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sarakimmich&show_icons=true&hide_border=true" />
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=salkimmich&show_icons=true&hide_border=true" />
 <br />
 
 ---
@@ -53,10 +52,14 @@ Looking to expand your career in data science? I love working with people who ar
 [twitter]: https://twitter.com/Kimmich_Compute
 [instagram]: https://instagram.com/sal_sees_the_world
 [webdevplaylist]: https://www.linkedin.com/in/salkimmich/
-  
-###  Oh, before you leave, here's my favorite spoken word poem, I hope you are as inspired by The Pragmatist's Guide to Magic as I am! 
-   <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=WA7LPK2iHq4" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
+
+---
+</br>
+
+### Oh, before you leave, here's my favorite spoken word poem,
+### I hope you are as inspired by [The Pragmatist's Guide to Magic](https://www.youtube.com/watch?v=WA7LPK2iHq4) as I am!
+
+<a href="https://www.youtube.com/watch?v=WA7LPK2iHq4">
+	<img src="https://i.ytimg.com/vi/WA7LPK2iHq4/hqdefault.jpg"  alt="a spoken word poet on stage"></img>
+</a>
