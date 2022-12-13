@@ -1,10 +1,10 @@
-<p align="center">
-
+<h1 align="center">
+	
 ## Hi there, I'm Sal Kimmich 
 # :signal_strength:✨:earth_americas:✨:computer:✨:globe_with_meridians:
 
-<br />
-</p>
+</h1>
+
 
 I am a Machine Learning Engineer with a decade of experience in reinforcement learning, predictive analytics, and algorithmic efficiency for cloud computing. 
 
