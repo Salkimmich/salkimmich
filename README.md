@@ -30,8 +30,6 @@ Looking to expand your career in data science? I love working with people who ar
 
 [![Website](https://img.shields.io/website?label=salkimmich.com&style=for-the-badge&url=https%3A%2F%2Fsalkimmich.com)](https://salkimmich.com)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Kimmich_Compute?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Kimmich_Compute)
-
 ➡️ [Medium blog posts](https://medium.com/@sarakimmich)
 <br />
 
