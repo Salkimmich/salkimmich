@@ -39,6 +39,16 @@ Looking to expand your career in data science? I love working with people who ar
 ➡️ [Aeon Essays](https://aeon.co/users/sara-kimmich)
 
 ---
+---
+</br>
+
+### Oh, before you leave, here's my favorite spoken word poem,
+### I hope you are as inspired by [The Pragmatist's Guide to Magic](https://www.youtube.com/watch?v=WA7LPK2iHq4) as I am!
+
+<a href="https://www.youtube.com/watch?v=WA7LPK2iHq4">
+	<img src="https://i.ytimg.com/vi/WA7LPK2iHq4/hqdefault.jpg"  alt="a spoken word poet on stage"></img>
+</a>
+
 
 <br />
 <details>
@@ -55,12 +65,3 @@ Looking to expand your career in data science? I love working with people who ar
 [webdevplaylist]: https://www.linkedin.com/in/salkimmich/
 
 
----
-</br>
-
-### Oh, before you leave, here's my favorite spoken word poem,
-### I hope you are as inspired by [The Pragmatist's Guide to Magic](https://www.youtube.com/watch?v=WA7LPK2iHq4) as I am!
-
-<a href="https://www.youtube.com/watch?v=WA7LPK2iHq4">
-	<img src="https://i.ytimg.com/vi/WA7LPK2iHq4/hqdefault.jpg"  alt="a spoken word poet on stage"></img>
-</a>
