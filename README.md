@@ -1,89 +1,102 @@
 <h1 align="center">
-	
-## Hi there, I'm Sal Kimmich 
-# :signal_strength:✨:earth_americas:✨:computer:✨:globe_with_meridians:
-
+ Hi there, I'm Sal Kimmich  
 </h1>
+:signal_strength:✨:earth_americas:✨:computer:✨:globe_with_meridians:
 
-I am a Privacy and Security Subject Matter Expert with over a decade of experience in advancing secure computing practices, privacy-enhancing technologies, and cloud-native machine learning pipelines. My work is centered on safeguarding sensitive data and pioneering human-centered management of data-driven systems.
+I'm a cybersecurity and infrastructure strategist with over a decade of experience leading secure computing initiatives, AI safety systems, and privacy-enhancing technology projects across open source, public sector, and deep-tech startups.
 
-🎙️ Open Source Maintainer Interview: [Security Boulevard: Meet An Open Source Maintainer, Sal Kimmich](https://securityboulevard.com/author/sal-kimmich/)
-  
+I currently serve as **Technical Director of GadflyAI**, where I lead ethical infrastructure projects at the intersection of AI, privacy, and digital sovereignty. Previously, I was **Technical Community Architect** at the Linux Foundation’s **Confidential Computing Consortium**, supporting trusted execution environments (TEEs), secure workload identity, and open standards for runtime attestation.
 
-I'm also the leader of **[Gadfly](https://gadfly.ai/about_us)**, a collective of Open Source artists and creatives engaged in exciting projects that range from [Media Analysis of Security Vulnerabilities](https://www.youtube.com/watch?v=5zVaFmScKXg&t=20s) to [Understanding Hardware in Space](https://www.youtube.com/watch?v=Y0bdc1uu-jI&t=4s). We explore the intersections of art, technology, and open-source culture to push the boundaries of what's possible.
+🔐 My focus: secure-by-design systems that scale — for governments, startups, and the future of agentic AI.
 
-As a **Technical Community Architect** at the Confidential Computing Consortium (CCC) within the Linux Foundation, I play a pivotal role in the development and implementation of Trusted Execution Environments (TEEs), addressing critical security challenges across finance, healthcare, and emerging fields like computational justice. I regularly write technical blogs about privacy-enhancing security open-source projects for the [CCC Blog](https://confidentialcomputing.io/resources/ccc-blog/).
+🎙️ Interview: [Security Boulevard: Meet An Open Source Maintainer, Sal Kimmich](https://securityboulevard.com/author/sal-kimmich/)  
+✍️ Featured: [Confidential Computing Blog](https://confidentialcomputing.io/category/blog/) | [HackerNoon](https://hackernoon.com/u/salkimmich)
 
-👋  
-➡️ [Find me on HackerNoon!](https://hackernoon.com/u/salkimmich)
+---
 
-:busts_in_silhouette: I’m looking to collaborate with other content creators who are committed to making the world a better place.  
-:thought_balloon: I’m seeking assistance with community building and engagement.  
-:ferris_wheel: Pronouns: They/Them  
+## 🌍 What I Do
 
-### 🌍 Host of The Present Dev Podcast
+- 🧠 Secure AI & Computing Cybersecurity Strategy  
+- 🌐 Digital sovereignty & trusted infrastructure  
+- 🔎 Open source security architecture & compliance  
+- 🎤 Keynotes, panels & international policy engagement  
 
-The Present Dev Podcast shines a light on innovators at the forefront of emerging technologies and the communities they support. We explore the social implications of the next generation of the open web, aiming to build a better digital future for everyone. As your host, I’m passionate about helping engineers and digital enthusiasts navigate the complexities of creating a more equitable and inclusive internet. Music by Ilkka Turunen!
+I collaborate with organizations like **OpenUK**, **OpenSSF**, and contribute to emerging standards for safe, privacy-respecting AI deployments.
 
-➡️ [Listen to The Present Dev Podcast](https://anchor.fm/the-present-dev)
+---
 
-### :octocat: Seeking a mentor in tech? 
+## 🎤 Recent Talks
 
-Are you looking to advance your career in data science or cybersecurity? I’m eager to work with individuals who are passionate about making a difference through technology. I mentor a selective cohort of talent who share a deep commitment to the intersection of activism and computing.
+- **🛰️ Space Technology & Resilient Design**  
+  [Hardware in Space – OSS 2024](https://events.linuxfoundation.org/open-source-summit/sessions/hardware-in-space-the-kernel-at-the-edge-of-the-universe/)
 
-➡️ [Apply for Mentorship through FLIK - Female Laboratory of Innovative Knowledge](https://portal.weareflik.com/)
+- **🤖 AI & Cybersecurity**  
+  [OC3 Keynote – Confidential Compute Futures](https://oc3conference.com/sessions/the-road-ahead-how-confidential-computing-will-evolve)  
+  [AI.Dev Summit Panel: Open Source AI Governance](https://aidevsummit.com/agenda/panel-why-a-universal-definition-of-open-source-ai-is-essential-for-humanity)
 
-### 🏆 Awards and Recognition:
+- **🛡️ Government Cybersecurity**  
+  [State of Open 2023 – International Security Policy Panel](https://stateofopencon.com/sessions/international-security-policy-panel)
 
-- **2024 Security Woman of the Year Shortlist**, Computing Security Excellence Awards  
-- **2023 Most Innovative Leader**, UK Digital Economy  
-- **Top 50 United Kingdom Open Source Contributor**, ARM sponsored Exhibition
+- **⚙️ DevSecOps & SRE**  
+  [SLOConf 2022 – Culture Clash: DevOps & Security](https://sloconf.com/sessions/culture-clash-on-pager-duty)
 
-### 📕 My Online Resources:
+---
+
+## 🎧 Podcasts & Media
+
+- [The Present Dev Podcast – Host](https://thepresent.dev/@ThePresentDev/episodes)
+- [Cybersecurity Attacks on Developers – The Data Standard](https://datastandard.io/podcasts/cybersecurity-attacks-on-developers)  
+- [Breaking Barriers: Open Source Cybersecurity and Mentorship – TechStrongTV]([https://techstrong.tv/sessions/improving-signal-processing](https://ott.techstrong.tv/videos/breaking-barriers-open-source-cybersecurity-and-mentorship-tech-strong-women-ep-43)
+
+---
+
+## 🏆 Awards & Recognition
+
+- **2025** – Top 100 Women in AI Ethics™  
+- **2024** – Shortlisted, Security Woman of the Year  
+- **2023** – Most Innovative Tech Leader, UK Digital Economy  
+- **Top 50 UK Open Source Contributor**, ARM Exhibition  
+
+---
+
+## 🌱 Mentorship & Advocacy
+
+I mentor a small cohort of developers and early-career researchers working at the intersection of cybersecurity, AI ethics, and open source systems.
+
+📬 [Apply for Mentorship via FLIK](https://portal.weareflik.com/)
+
+---
+
+## 📚 Featured Resources
 
 [![Website](https://img.shields.io/website?label=salkimmich.com&style=for-the-badge&url=https%3A%2F%2Fsalkimmich.com)](https://salkimmich.com)
 
-➡️ [Aeon Essays](https://aeon.co/users/sara-kimmich)  
-➡️ [Confidential Computing Consortium Blog](https://confidentialcomputing.io/category/blog/)  
-➡️ [Personal Writing on HackerNoon](https://hackernoon.com/u/salkimmich)
+- ✍️ [Aeon Essays](https://aeon.co/users/sara-kimmich)  
+- 🔐 [Confidential Computing Blog](https://confidentialcomputing.io/category/blog/)  
+- 💡 [HackerNoon Articles](https://hackernoon.com/u/salkimmich)
 
+---
 
-### 🎤 My favorite Recent Speaking Topics in Tech:
+## Connect with Me  
+[🔗 LinkedIn](https://linkedin.com/in/salkimmich)  
+[🌐 Website](https://salkimmich.com)  
 
-- **AI/ML Cybersecurity**  
-  - AI.Dev Summit: [Panel: Why A Universal Definition of “Open Source AI” is Essential for Humanity](https://aidevsummit.com/agenda/panel-why-a-universal-definition-of-open-source-ai-is-essential-for-humanity)
-
-- **Government and Supply Cybersecurity**  
-  - State of Open UK 2023: [Moderator: International Security Policy Panel](https://stateofopencon.com/sessions/international-security-policy-panel)  
-  - OC3 2024 Keynote: [The Road Ahead: How Confidential Computing will Evolve in the 2020’s and beyond](https://oc3conference.com/sessions/the-road-ahead-how-confidential-computing-will-evolve)
-
-- **SRE/Cybersecurity**  
-  - SLOConf 2022: [Culture Clash on Pager Duty: DevOps, SRE, and Cybersecurity](https://sloconf.com/sessions/culture-clash-on-pager-duty)
-
-- **Space Technology and Resilient Design**  
-  - Open Source Summit 2024: [Hardware in Space: The Kernel at the Edge of the Universe](https://events.linuxfoundation.org/open-source-summit/sessions/hardware-in-space-the-kernel-at-the-edge-of-the-universe/)
-
-### 🎙️ Podcasts and Interviews:
-
-- **The Present Dev**: Ideas for a Better Digital Future (Sal Kimmich’s Podcast)  
-- **Techstrong TV**: [Improving Signal Processing in Open Source Contributions](https://techstrong.tv/sessions/improving-signal-processing)  
-- **The Data Standard Podcast**: [Cybersecurity Attacks on Developers](https://datastandard.io/podcasts/cybersecurity-attacks-on-developers)
-
-## Before you go, here’s my favorite spoken word poem: I hope [The Pragmatist's Guide to Magic](https://www.youtube.com/watch?v=WA7LPK2iHq4) inspires you as much as it does me!
-
-<a href="https://www.youtube.com/watch?v=WA7LPK2iHq4">
-	<img src="https://i.ytimg.com/vi/WA7LPK2iHq4/hqdefault.jpg" alt="Spoken word poet on stage"></img>
-</a>
-
-<br />
-
+--- 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>⚡ GitHub Stats</summary>
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salkimmich&show_icons=true&hide_border=true" />
 </details>
 
-[linkedin]: https://linkedin.com/in/salkimmich  
-[website]: https://salkimmich.com  
-[twitter]: https://twitter.com/Kimmich_Compute  
-[instagram]: https://instagram.com/sal_sees_the_world  
-[webdevplaylist]: https://www.linkedin.com/in/salkimmich
+---
+
+## 💫 Before You Go
+
+Here’s a spoken word poem I love — [*The Pragmatist's Guide to Magic*](https://www.youtube.com/watch?v=WA7LPK2iHq4). May it remind you to build systems with both resilience and wonder.
+
+<a href="https://www.youtube.com/watch?v=WA7LPK2iHq4">
+  <img src="https://i.ytimg.com/vi/WA7LPK2iHq4/hqdefault.jpg" alt="Spoken word poet on stage" />
+</a>
+
+---
+
+
