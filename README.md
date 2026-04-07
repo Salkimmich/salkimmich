@@ -4,7 +4,9 @@
 
 I work at the intersection of AI infrastructure, digital sovereignty, and the communities that build on both. My career has been about one thing: translating complex systems into things engineers actually want to engage with. Open source projects, keynotes, curricula, writing, community programmes. I care deeply about who controls the infrastructure AI runs on, and I build tools and spaces to help engineers think clearly about that.
 
-Right now I'm Technical Director at [Gadfly AI LLC](https://gadfly.ai), working on AI governance tooling for high-stakes sectors. I helped found the [OpenSSF AI/ML Working Group](https://openssf.org) and I'm still actively mentoring a community of security engineers through OpenSSF. I wrote [*Code, Chips and Control*](https://leanpub.com/codechipsandcontrol) (Leanpub, 2025).
+Right now I'm Technical Director at [Gadfly AI LLC](https://gadfly.ai), working on AI governance tooling for high-stakes sectors. I helped found the [OpenSSF AI/ML Working Group](https://openssf.org) and I'm still actively mentoring a community of security engineers through OpenSSF. 
+
+My Github/Codeberg contributions were lower than usual in 2025 because I sat down and wrote [*Code, Chips and Control*](https://leanpub.com/codechipsandcontrol) (Leanpub, 2025). It was worth the time, and it is worth the read. 
 
 ---
 
